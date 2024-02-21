@@ -1,4 +1,4 @@
-# any
+ any
 for testnet
 aleo smart contract
 
